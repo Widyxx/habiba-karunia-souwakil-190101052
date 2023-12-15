@@ -5,14 +5,5 @@
 	<br>
 </p>
 
-### Features
-
-- Dashboard
-- Data Siswa (CRUD)
-- Data Orang Tua (CRUD)
-- Administrasi (CRUD)
-- Cetak Kartu Peserta
-- Landing Page
-
 
 
